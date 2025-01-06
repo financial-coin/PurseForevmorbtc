@@ -3,7 +3,7 @@ import 'package:purse_for_evmorbtc/page/addWalletPage.dart';
 import 'package:purse_for_evmorbtc/page/createWalletForMnemonicN.dart';
 import 'package:purse_for_evmorbtc/page/mainPage/receiveCoinPage.dart';
 import 'package:purse_for_evmorbtc/page/mySelfWalletN.dart';
-import '../page/Login1.dart';
+// import '../page/Login1.dart';
 import '../page/FirstPage.dart';
 import '../page/mainPage/accreditPage.dart';
 import '../page/mainPage/myAssetsBTCPage.dart';
@@ -30,7 +30,7 @@ import '../page/WebViewPage.dart';
 
 class AppPage {
   static final routes = [
-    GetPage(name: "/Login", page: () => const Login()),
+    // GetPage(name: "/Login", page: () => const Login()),
     GetPage(name: "/Splash", page: () => Splash()),
     GetPage(name: "/FirstPage", page: () => FirstPage()),
     GetPage(name: "/MySelfWallet", page: () => MySelfWallet()),
