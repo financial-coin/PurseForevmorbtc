@@ -1,0 +1,13 @@
+io.flutter.plugins.webviewflutter.webview_flutter_android-webkit-1.5.0-0 /Users/chenyao/.gradle/caches/transforms-3/14d1ec6c971816c45c937ace98686b34/transformed/webkit-1.5.0/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-window-java-1.0.0-beta04-1 /Users/chenyao/.gradle/caches/transforms-3/5d94291ef25115593d6d4460418917b5/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-core-1.6.0-2 /Users/chenyao/.gradle/caches/transforms-3/6a150288d62f2e884685b804ab2f8b9a/transformed/core-1.6.0/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-annotation-experimental-1.1.0-3 /Users/chenyao/.gradle/caches/transforms-3/951a02bd07f72fd605aec6de43a83e2b/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-window-1.0.0-beta04-4 /Users/chenyao/.gradle/caches/transforms-3/b288b31f5de305d947614e4bb7747e99/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-main-5 /Users/chenyao/flutter_mac/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter_android-2.10.4/android/src/main/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-release-6 /Users/chenyao/flutter_mac/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter_android-2.10.4/android/src/release/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-pngs-7 /Users/chenyao/purse_for_evmorbtc/build/webview_flutter_android/generated/res/pngs/release
+io.flutter.plugins.webviewflutter.webview_flutter_android-resValues-8 /Users/chenyao/purse_for_evmorbtc/build/webview_flutter_android/generated/res/resValues/release
+io.flutter.plugins.webviewflutter.webview_flutter_android-rs-9 /Users/chenyao/purse_for_evmorbtc/build/webview_flutter_android/generated/res/rs/release
+io.flutter.plugins.webviewflutter.webview_flutter_android-mergeReleaseResources-10 /Users/chenyao/purse_for_evmorbtc/build/webview_flutter_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.webviewflutter.webview_flutter_android-mergeReleaseResources-11 /Users/chenyao/purse_for_evmorbtc/build/webview_flutter_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.webviewflutter.webview_flutter_android-merged_res-12 /Users/chenyao/purse_for_evmorbtc/build/webview_flutter_android/intermediates/merged_res/release

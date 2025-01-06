@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1373467590/android.device_info.iml" filepath="$PROJECT_DIR$/.idea/modules/1373467590/android.device_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1373467590/android.device_info.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1373467590/android.device_info.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1373467590/android.device_info.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1373467590/android.device_info.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1373467590/android.device_info.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1373467590/android.device_info.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-209511653/android.flutter_keyboard_visibility.iml" filepath="$PROJECT_DIR$/.idea/modules/-209511653/android.flutter_keyboard_visibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-209511653/android.flutter_keyboard_visibility.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-209511653/android.flutter_keyboard_visibility.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-209511653/android.flutter_keyboard_visibility.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-209511653/android.flutter_keyboard_visibility.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-209511653/android.flutter_keyboard_visibility.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-209511653/android.flutter_keyboard_visibility.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1330895678/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/1330895678/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1330895678/android.fluttertoast.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1330895678/android.fluttertoast.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1330895678/android.fluttertoast.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1330895678/android.fluttertoast.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1330895678/android.fluttertoast.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1330895678/android.fluttertoast.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1508230410/android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1508230410/android.shared_preferences_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1508230410/android.shared_preferences_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1508230410/android.shared_preferences_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1508230410/android.shared_preferences_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1508230410/android.shared_preferences_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1508230410/android.shared_preferences_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1508230410/android.shared_preferences_android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/200395205/android.webview_flutter_android.iml" filepath="$PROJECT_DIR$/.idea/modules/200395205/android.webview_flutter_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/200395205/android.webview_flutter_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/200395205/android.webview_flutter_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/200395205/android.webview_flutter_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/200395205/android.webview_flutter_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/200395205/android.webview_flutter_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/200395205/android.webview_flutter_android.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+io.flutter.plugins.deviceinfo.device_info-jetified-window-java-1.0.0-beta04-0 /Users/chenyao/.gradle/caches/transforms-3/5d94291ef25115593d6d4460418917b5/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.deviceinfo.device_info-core-1.6.0-1 /Users/chenyao/.gradle/caches/transforms-3/6a150288d62f2e884685b804ab2f8b9a/transformed/core-1.6.0/res
+io.flutter.plugins.deviceinfo.device_info-jetified-annotation-experimental-1.1.0-2 /Users/chenyao/.gradle/caches/transforms-3/951a02bd07f72fd605aec6de43a83e2b/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.deviceinfo.device_info-jetified-window-1.0.0-beta04-3 /Users/chenyao/.gradle/caches/transforms-3/b288b31f5de305d947614e4bb7747e99/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.deviceinfo.device_info-main-4 /Users/chenyao/flutter_mac/flutter/.pub-cache/hosted/pub.flutter-io.cn/device_info-2.0.3/android/src/main/res
+io.flutter.plugins.deviceinfo.device_info-release-5 /Users/chenyao/flutter_mac/flutter/.pub-cache/hosted/pub.flutter-io.cn/device_info-2.0.3/android/src/release/res
+io.flutter.plugins.deviceinfo.device_info-pngs-6 /Users/chenyao/purse_for_evmorbtc/build/device_info/generated/res/pngs/release
+io.flutter.plugins.deviceinfo.device_info-resValues-7 /Users/chenyao/purse_for_evmorbtc/build/device_info/generated/res/resValues/release
+io.flutter.plugins.deviceinfo.device_info-rs-8 /Users/chenyao/purse_for_evmorbtc/build/device_info/generated/res/rs/release
+io.flutter.plugins.deviceinfo.device_info-mergeReleaseResources-9 /Users/chenyao/purse_for_evmorbtc/build/device_info/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.deviceinfo.device_info-mergeReleaseResources-10 /Users/chenyao/purse_for_evmorbtc/build/device_info/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.deviceinfo.device_info-merged_res-11 /Users/chenyao/purse_for_evmorbtc/build/device_info/intermediates/merged_res/release

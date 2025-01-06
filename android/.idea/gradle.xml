@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/flutter_mac/flutter/.pub-cache/hosted/pub.flutter-io.cn/device_info-2.0.3/android" />
+            <option value="$USER_HOME$/flutter_mac/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_keyboard_visibility-5.4.1/android" />
+            <option value="$USER_HOME$/flutter_mac/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-8.2.5/android" />
+            <option value="$USER_HOME$/flutter_mac/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_android-2.2.0/android" />
+            <option value="$USER_HOME$/flutter_mac/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter_android-2.10.4/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

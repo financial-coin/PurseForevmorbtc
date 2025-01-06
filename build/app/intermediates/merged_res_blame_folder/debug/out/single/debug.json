@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.purse_for_evmorbtc.app-merged_res-12:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.example.purse_for_evmorbtc.app-main-6:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.purse_for_evmorbtc.app-merged_res-12:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.purse_for_evmorbtc.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.purse_for_evmorbtc.app-merged_res-12:/drawable-xxhdpi_bg_update_top.png.flat",
+        "source": "com.example.purse_for_evmorbtc.app-main-6:/drawable-xxhdpi/bg_update_top.png"
+    },
+    {
+        "merged": "com.example.purse_for_evmorbtc.app-merged_res-12:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.purse_for_evmorbtc.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.purse_for_evmorbtc.app-merged_res-12:/drawable_ic_launcher.png.flat",
+        "source": "com.example.purse_for_evmorbtc.app-main-6:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.purse_for_evmorbtc.app-merged_res-12:/drawable_nameimg.png.flat",
+        "source": "com.example.purse_for_evmorbtc.app-main-6:/drawable/nameimg.png"
+    },
+    {
+        "merged": "com.example.purse_for_evmorbtc.app-merged_res-12:/drawable-xxhdpi_nameimg.png.flat",
+        "source": "com.example.purse_for_evmorbtc.app-main-6:/drawable-xxhdpi/nameimg.png"
+    },
+    {
+        "merged": "com.example.purse_for_evmorbtc.app-merged_res-12:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.purse_for_evmorbtc.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.purse_for_evmorbtc.app-merged_res-12:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.purse_for_evmorbtc.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.purse_for_evmorbtc.app-merged_res-12:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.purse_for_evmorbtc.app-main-6:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.purse_for_evmorbtc.app-merged_res-12:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.purse_for_evmorbtc.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
